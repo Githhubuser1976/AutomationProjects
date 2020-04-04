@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/seleniumjars/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/cobertura-maven-plugin-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/cucumber-reporting-3.19.0.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/harmcrest/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/Extentreport/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/InSprintAutomation/requiredjarfiles/cucumberextent/cucumber-extentsreport-3.0.2 (1).jar"/>
+	<classpathentry kind="lib" path="F:/sikuli/sikulix.jar"/>
+	<classpathentry kind="lib" path="F:/sikuli/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="F:/sikuli/sikulixsetup-1.1.3 (3).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
